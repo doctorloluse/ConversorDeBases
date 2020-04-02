@@ -86,7 +86,11 @@ function SelConverter(){
 }
 </script>
 
+  <p>
+  <font size="6" face="Gilroy">
   Conversor De Bases Numéricas De Binário até Z
+  </font>
+  </p>
   
 <form name="form">
   <b>Valor de Entrada:</b><input type="text" name="ValIn"><br>   
