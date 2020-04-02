@@ -91,7 +91,7 @@ function SelConverter(){
   Conversor De Bases Numéricas De Binário até Z
   </font>
   </p>
-  
+ <center>
 <form name="form">
   <b>Valor de Entrada:</b><input type="text" name="ValIn"><br>   
   <b>Base de Entrada:</b>
@@ -187,4 +187,4 @@ function SelConverter(){
         }
         </style>
   
-</form>
+</form></center>
