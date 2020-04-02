@@ -175,15 +175,5 @@ function SelConverter(){
   <b>Valor de Saída:</b><input type="text" name="ValOut">  <br>
   <br>
   <input type="button" value="Converter" OnClick="SelConverter()">
-  <style> 
-        input[type=button]{
-          background-color: #1874CD;
-          border: none;
-          color: white;
-          padding: 16px 32px;
-          text-decoration: none;
-          margin: 4px 2px;
-          cursor: pointer;
-        }
-        </style>
+  
 </form>
