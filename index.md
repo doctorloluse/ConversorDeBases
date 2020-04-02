@@ -92,10 +92,8 @@ function SelConverter(){
   </font>
   </p>
 
-
-
 <form name="form">
-  <b>Valor de Entrada:</b><input size=19 type="text" name="ValIn"><br>  
+  <b>Valor de Entrada:</b><input size=19 type="text" name="ValIn"><br>   
   <b>Base de Entrada:</b>
     <select name="BaseEntrada">
       <option value=""></option>
@@ -177,4 +175,15 @@ function SelConverter(){
   <b>Valor de Saída:</b><input type="text" name="ValOut">  <br>
   <br>
   <input type="button" value="Converter" OnClick="SelConverter()">
+  <style> 
+        input[type=button]{
+          background-color: #1874CD;
+          border: none;
+          color: white;
+          padding: 16px 32px;
+          text-decoration: none;
+          margin: 4px 2px;
+          cursor: pointer;
+        }
+        </style>
 </form>
