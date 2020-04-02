@@ -85,12 +85,13 @@ function SelConverter(){
   f.ValOut.value = Valor;
 }
 </script>
-
+<center>
   <p>
   <font size="6" face="Gilroy">
   Conversor De Bases Numéricas De Binário até Z
   </font>
   </p>
+  </center>
  <center>
 <form name="form">
   <b>Valor de Entrada:</b><input type="text" name="ValIn"><br>   
